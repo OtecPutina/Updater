@@ -1,0 +1,17 @@
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\Updater.exe
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\Updater.deps.json
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\Updater.runtimeconfig.json
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\Updater.dll
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\Updater.pdb
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.Form1.resources
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.csproj.GenerateResource.cache
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.AssemblyInfoInputs.cache
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.AssemblyInfo.cs
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.csproj.CoreCompileInputs.cache
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.dll
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\refint\Updater.dll
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.pdb
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\Updater.genruntimeconfig.cache
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\obj\Debug\net6.0-windows\ref\Updater.dll
+C:\Users\ravi.jafarli\source\repos\Updater\Updater\bin\Debug\net6.0-windows\OpenAndRefresh.ps1
